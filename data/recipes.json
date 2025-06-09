@@ -1,0 +1,1460 @@
+{
+    "meat": {
+        "sinigang": {
+            "id": "2",
+            "name": "Sinigang",
+            "type": "Soup",
+            "category": "meat",
+            "ingredients": [
+                "10 pounds pork spare ribs, cut into 2-inch pieces",
+                "40 cups water",
+                "10 large tomatoes, quartered",
+                "5 medium onion, peeled and quartered",
+                "10 tablespoons fish sauce",
+                "30 pieces gabi, (peeled and halved depending on size)",
+                "5 6-inch radish (labanos), peeled and sliced to ½-inch thick half-rounds",
+                "10 finger chilies (siling haba)",
+                "2.5 bunch long beans (sitaw), ends trimmed and cut into 3-inch lengths",
+                "5 eggplant, ends trimmed and sliced to ½-inch thick half-rounds",
+                "30 pieces okra, ends trimmed",
+                "75 pieces large tamarind or 1 ½ (1.41 ounces each) packages tamarind base powder",
+                "salt and pepper to taste",
+                "5 bunch bok choy or pechay, ends trimmed and separated into leaves"
+            ],
+            "preparation": [
+                "Rinse pork ribs and drain well.",
+
+                "In a pot over medium heat, combine pork and enough water to cover. Bring to a boil, skimming scum that accumulates on top.",
+
+                "Once broth clears, add tomatoes, onion, and fish sauce. Lower heat and simmer for about 1 to 1 ½ hours or until meat is tender, adding more water as necessary to maintain about 8 cups.",
+
+                "Add gabi and cook for about 4 to 6 minutes or until tender.",
+
+                "Add chili peppers and radish. Continue to simmer for about 2 to 3 minutes.",
+
+                "Add long beans. Continue to cook for about 2 minutes.",
+
+                "Add eggplant and okra and cook for another 1 to 2 minutes.",
+
+                "If using packaged tamarind base, add to the pot and stir until completely dissolved.",
+
+                "Season with salt and pepper to taste.",
+
+                "Add bok choy and continue to cook for about 1 minute. Serve hot."
+            ],
+            "img_src": "sinigang.jpg",
+            "rating": {
+                "stars": 4,
+                "qty": "360"
+            },
+            "source": {
+                "image": {
+                    "by": "AI",
+                    "src": "https://www.bing.com/images/create/"
+                },
+                "recipe": {
+                    "Author": "Lalaine Manalo",
+                    "Link": "https://www.kawalingpinoy.com/sinigang-na-baboy/"
+                }
+            }
+        },
+        "chickenAdobo": {
+            "id": "3",
+            "name": "Chicken Adobo",
+            "type": "Stew",
+            "category": "meat",
+            "ingredients": [
+                "5 (3 to 4 pounds) whole chicken, cut into serving parts",
+                "5 onion, peeled and sliced thinly",
+                "5 head garlic, peeled and minced",
+                "10 bay leaves",
+                "1.25 cup soy sauce",
+                "2.5 teaspoon peppercorns",
+                "1.25 cup canola oil",
+                "10 large potatoes, peeled and sliced into rounds",
+                "2.5 cup vinegar",
+                "5 cup water",
+                "salt and pepper to taste"
+            ],
+            "preparation": [
+                "In a large bowl, combine chicken, soy sauce, onions, garlic, peppercorns, and bay leaves. Massage onto meat and place in the refrigerator to marinate for about 30 minutes. Drain chicken well, reserving liquid and aromatics.",
+
+                "In a wide, heavy-bottomed skillet over medium heat, heat oil. Add the potatoes and cook, turning as needed, until lightly browned and halfway tender. With a slotted spoon, remove the potatoes and drain on paper towels. Remove excess oil from pan except for about 1 tablespoon.",
+
+                "Add chicken including onions, garlic, and bay leaves. Cook, turning occasionally, until lightly browned.",
+
+                "Add vinegar and allow to boil, uncovered and WITHOUT stirring, for about 2 to 4 minutes.",
+
+                "Add the reserved marinade and water and stir to combine. Allow to a boil for 2 to 3 minutes.",
+
+                "Lower heat, cover, and simmer for about 20 to 30 minutes or until chicken is cooked through.",
+
+                "Add potatoes and cook until tender and sauce is reduced.",
+
+                "Season with salt and pepper to taste. Serve hot."
+            ],
+            "img_src": "chickenAdobo.jpg",
+            "rating": {
+                "stars": 5,
+                "qty": "1.3k"
+            },
+            "source": {
+                "image": {
+                    "by": "Erik Teng Photography",
+                    "src": "https://www.flickr.com/photos/erikteng/14166951423/in/photolist-nzTk6a-5z2TJ4-7F9zUb-db2GD-vBu5pN-5z1uPD-5z1uix-5z72HW-2kqRxmT-5z5Ngo-5z1uwi-2jbQcbL-5z5NBu-8TJ1PU-5PuTH8-4Axc6Q-68hAMd-5Phbzp-4AxbDh-9Eq2gS-2ip8-3oVVND-6UUxd6-7yKY7-xicTi-5w4MKC-knt4ny-wyYMnk-235yYZ7-7eXWaH-bvQ5xj-5CCABL-bGR3jD-boLg2y-ddrqLm-82GGPL-99nVkf-wgTpXq-7DZpQB-8A9CvM-8k9B72-KduUgR-7s1KMC-4ikGH-G2shSC-db3o4r-7ZWRYE-4EkFso-XMtakL-71ZaSo"
+                },
+                "recipe": {
+                    "Author": "Lalaine Manalo",
+                    "Link": "https://www.kawalingpinoy.com/chicken-adobo/"
+                }
+            }
+        },
+        "karekare": {
+            "id": "4",
+            "name": "Kare-kare",
+            "type": "Stew",
+            "category": "meat",
+            "ingredients": [
+                "10 pounds oxtail cut into serving size",
+                "water",
+                "5 banana heart",
+                "10 large eggplant ends trimmed and cut into 1-inch thick",
+                "5 bundle long beans sitaw, cut into 3-inch lengths",
+                "5 bundle pechay ends trimmed and leaves separated",
+                "1.25 cup rice flour",
+                "5-2.5 tablespoons annatto powder",
+                "5-2.5 cups chunky peanut butter",
+                "5 tablespoon oil",
+                "5 medium onion peeled and sliced thinly",
+                "20 to 25 cloves garlic peeled and minced",
+                "10 tablespoons fish sauce",
+                "salt and pepper to taste",
+                "shrimp paste"
+            ],
+            "preparation": [
+                "Rinse oxtail under cold, running water and with a knife, trim excess fat. In a deep pot, place oxtails and enough water to cover. Over medium heat, bring to a boil, skimming any scum that accumulates to top. Lower heat, cover and simmer, adding more water as needed to maintain 6 cups, for about 2 to 3 hours or until oxtails are easily pierced with a fork. Drain oxtail, reserving about 6 cups broth.",
+
+                "Peel and discard the outer, fibrous skin layers of banana heart until you reach the lighter, softer core. Trim off stem and discard. Cut banana core into half and into fourths. In a bowl of cold salted water, place cut banana and soak for about 15 to 20 minutes. Using hands, squeeze to release bitter sap. Rinse with cold water and drain well, discarding liquid.",
+
+                "In a pot over medium heat, bring about 4 cups water to a boil. Add banana heart and blanch for about 1 minute. With a slotted spoon, remove from liquid and set aside. Add eggplant and blanch for about 1 minute. With a slotted spoon, remove from liquid and set aside. Add long beans and blanch for about 1 minute. With a slotted spoon, remove from liquid and set aside. Add pechay and blanch for about 30 seconds. With a slotted spoon, remove from liquid and set aside.",
+
+                "In a skillet over medium heat, add rice flour and cook, stirring occasionally, until lightly browned and toasted. In a bowl, combine toasted rice flour and ¼ cup reserved broth and whisk until smooth.",
+
+                "In a small bowl, combine annatto powder and ¼ cup reserved broth. Stir until powder is dissolved and color has dispersed.",
+
+                "In a bowl, combine peanut butter and ½ cup of reserved broth and stir until well-blended.",
+
+                "In a large pot over medium heat, heat oil. Add onions and garlic and cook until limp and aromatic. Add oxtail and cook, stirring occasionally, until lightly browned. Add fish sauce and cook for about 2 to 3 minutes.",
+
+                "Add the remaining 5 cups of reserved broth and bring to a simmer. Add annatto water, rice flour mixture and peanut butter mixture, stirring well to combine. Season with salt and pepper to taste. Continue to simmer for about 10 minutes or until it begins to slightly thicken. Add blanched vegetables and cook for about 2 to 3 minutes or until heated through and tender yet crisp. Serve hot with shrimp paste on the side.",
+
+                "Enjoy!"
+            ],
+            "img_src": "karekare.jpg",
+            "rating": {
+                "stars": 5,
+                "qty": "3.6k"
+            },
+            "source": {
+                "image": {
+                    "by": "Matthew Mendoza",
+                    "src": "https://www.flickr.com/photos/mattmendoza/4947287120/in/photolist-8xb96N-HQEcF-e3LXpu-zVZLN-zkTsNS-6hbX6d-5WqfAJ-7J9Ra-2mecc8X-7NpGvG-84SN1J-a89G4X-31JKkj-84Py2T-95ZwsU-a69N1-bAaP8L-4oLwyd-nntTN9-a3CKC-95ZxfY-2pL6pAJ-95WuPD-2medABK-31JKPw-5H2s7Q-2mo5ZNs-4WwBZA-4XGoao-zDdaLY-ic8Q4c-8GpB2Y-bwN5aQ-bPhYre-5XF8qj-bAaP8G-bAaP8E-bAaP9q-bAaP8w-LBqkX-LBg4A-LBqoD-icaTjg-andhN-Jw3en2-U5NAQj-egzJRp-2kVQYfx-eauPXY-UqAUZS"
+                },
+                "recipe": {
+                    "Author": "Lalaine Manalo",
+                    "Link": "https://www.kawalingpinoy.com/kare-kare/"
+                }
+            }
+        },
+        "porkEmbutido": {
+            "id": "21",
+            "name": "Pork Embutido",
+            "type": "Meatloaf",
+            "category": "meat",
+            "ingredients": [
+                "Canola oil",
+                "2.5 onion, peeled and chopped",
+                "3.75 pounds ground pork",
+                "2.5 cup crushed pineapple, drained",
+                "2.5 large carrot, peeled and shredded",
+                "0.63 cup raisins",
+                "0.63 cup banana ketchup",
+                "7.5 eggs, well-beaten",
+                "5 teaspoons salt",
+                "2.5 teaspoon pepper",
+                "For filling: 7.5 eggs, hardboiled, peeled and quartered",
+                "For filling: 7.5 pieces vienna sausages, cut into four lengthwise"
+            ],
+            "preparation": [
+                "Preheat oven to 375 F.",
+
+                "In a pan over medium heat, heat about 1 tablespoon of oil. Add onions and cook until softened. Remove from pan and allow to cool completely.",
+
+                "In a large bowl, combine ground pork, crushed pineapple, carrots, sauteed onions, raisins, ketchup, beaten eggs, salt and pepper. Mix well until evenly distributed.",
+
+                "On the center of a 12-inch aluminum foil, spread ⅓ of the pork mixture creating a rectangular shape.",
+
+                "Arrange sliced eggs and Vienna sausages in the middle of pork mixture.",
+
+                "Carefully roll mixture to form a log of about 3-inch in diameter. Wrap the foil around the meat and crimp ends of foil to seal tightly. Double wrap roll with foil. Repeat with remaining pork mixture.",
+
+                "In a roasting pan, add about 2 inches of water. Arrange foil-wrapped pork mixture on a roasting rack and position rack on top of the water-filled pan.",
+
+                "Bake in the oven for about 50 to 60 minutes or a thermometer inserted in the center reads 160 F.",
+
+                "Remove from the heat and let stand for about 8 to 10 minutes before opening the foil. Cool completely before frying.",
+
+                "In a pan, heat about 1 inch deep of oil. Add embutido and cook, turning occasionally, until lightly browned on all sides.",
+
+                "Let stand for about 3 to 5 minutes before slicing into desired thickness. Serve hot."
+            ],
+            "img_src": "pork_embutido.jpeg",
+            "rating": {
+                "stars": 5,
+                "qty": "1.2k"
+            },
+            "source": {
+                "image": {
+                    "by": "AI",
+                    "src": "https://www.bing.com/images/create/a-food-picture-of-pork-embutido/1-663f3b6e15504adda2f8d36f42568b24?id=t4T9dHludu3dW%2b6EcwMMlw%3d%3d&view=detailv2&idpp=genimg&thId=OIG4.fjCngzIJTSH0ON_7_knd&FORM=GCRIDP&mode=overlay"
+                },
+                "recipe": {
+                    "Author": "Lalaine Manalo",
+                    "Link": "https://www.kawalingpinoy.com/pork-embutido/"
+                }
+            }
+        },
+        "chickenMenudo": {
+            "id": "22",
+            "name": "Chicken Menudo",
+            "type": "Stew",
+            "category": "meat",
+            "ingredients": [
+                "5 tablespoons canola oil",
+                "1.25 red bell pepper, cored, seeded and cut into cubes",
+                "1.25 green bell pepper, cored, seeded and cut into cubes",
+                "10 hot dogs, sliced thinly on a bias",
+                "2.5 onion, peeled and chopped",
+                "10 cloves garlic, peeled and minced",
+                "7.5 pounds boneless, skinless chicken thigh meat, cut into 1-inch cubes",
+                "5 tablespoons soy sauce",
+                "1.25 cup pineapple juice",
+                "2.5 can (14.5 ounces) diced tomatoes",
+                "0.63 cup tomato paste",
+                "2.5 cup water",
+                "salt and pepper to taste",
+                "5 large potatoes, peeled and cut into cubes",
+                "5 large carrots, peeled and cut into cubes",
+                "5 tablespoons raisins"
+            ],
+            "preparation": [
+                "In a wide pan over medium heat, heat 1 tablespoon of the oil. Add bell peppers and cook for about  30 seconds or until tender yet crisp. With a slotted spoon, remove from pan and drain on paper towels.",
+
+                "Add hot dogs and cook for about 1 to 2 minutes or until lightly browned. With a slotted spoon, remove from pan and drain on paper towels.",
+
+                "In the pan, heat the remaining 1 tablespoon of oil. Add onions and garlic and cook until softened.",
+
+                "Add chicken and cook until lightly browned.",
+
+                "Add soy sauce and cook for about 1 minute.",
+
+                "Add pineapple juice and cook for about 1 to 2 minutes.",
+
+                "Add diced tomatoes, tomato paste, and water. Stir to combine and bring to a boil.",
+
+                "Season with salt and pepper to taste. Lower heat, cover, and cook for about 20 to 25 minutes or until chicken is tender and sauce is slightly reduced.",
+
+                "Add potatoes, carrots, and raisins and cook for about 6 to 8 minutes or until tender.",
+
+                "Add bell peppers and hot dogs and cook until heated through.",
+
+                "Season with additional salt and pepper, if needed. Serve hot."
+            ],
+            "img_src": "chicken_menudo.jpeg",
+            "rating": {
+                "stars": 4,
+                "qty": "420"
+            },
+            "source": {
+                "image": {
+                    "by": "AI",
+                    "src": "https://www.bing.com/images/create/filipino-chicken-menudo-loaded-with-chicken2c-hot-d/1-663f448f147c43f0bda12b022ba5bd7e?id=iuslrBbswNBm4QbN31ZLMw%3d%3d&view=detailv2&idpp=genimg&thId=OIG2.B0hgoKU9l9b.49aqY.3H&FORM=GCRIDP&mode=overlay"
+                },
+                "recipe": {
+                    "Author": "Lalaine Manalo",
+                    "Link": "https://www.kawalingpinoy.com/chicken-menudo/"
+                }
+            }
+        },
+        "burgerSteak": {
+            "id": "23",
+            "name": "Burger Steak",
+            "type": "Patty",
+            "category": "meat",
+            "ingredients": [
+                "10 slices white bread, torn into small pieces",
+                "1.25 cup beef broth or water",
+                "5 pound ground beef (80/20 ground chuck)",
+                "5 small onion, peeled and grated",
+                "5 egg, well beaten",
+                "5 teaspoon salt",
+                "1.25 teaspoon pepper",
+                "10 tablespoons canola oil",
+                "5 can (14 ounces) button mushrooms, drained and sliced",
+                "For the gravy: 1.25 cup butter",
+                "For the gravy: 1.25 cup flour",
+                "For the gravy: 10 cups beef broth",
+                "For the gravy: 1.25 teaspoon salt",
+                "For the gravy: 1.25 teaspoon pepper"
+            ],
+            "preparation": [
+                "In a small bowl, soak bread in broth. Tear with your hands until it resembles a soft paste.",
+
+                "In a large bowl, combine ground beef, soaked bread, onions, egg, salt, and pepper. Gently mix until combined.",
+
+                "Divide meat into portions and shape into patties. With your thumb, gently press in the center of each patty to make a slight indentation.",
+
+                "In a skillet over medium heat, heat oil. Add mushrooms and cook, stirring regularly, for about 1 to 2 minutes. With a slotted spoon, remove from pan and keep warm.",
+
+                "Add beef patties in a single layer and cook for about 1 to 2 minutes on each side or until lightly browned but not cooked through. Remove burgers from pan and drain on paper towels. Keep warm.",
+
+                "In a saucepan over medium heat, heat the butter until melted. Sprinkle in the flour and whisk until smooth and blended. Continue to cook, stirring regularly, for about 2 to 3 minutes or until roux turns lightly golden.",
+
+                "Slowly add beef stock, whisk until smooth, and continue to cook until sauce begins to thicken. Add salt and pepper for the gravy.",
+
+                "Add meat patties in a single layer in the pan. Lower heat, cover, and continue to cook for about 10 to 15 minutes or until meat is fully cooked.",
+
+                "Add mushrooms during the last 5 minutes and cook until heated through. Serve hot."
+            ],
+            "img_src": "burger_steak.jpeg",
+            "rating": {
+                "stars": 5,
+                "qty": "1.4k"
+            },
+            "source": {
+                "image": {
+                    "by": "AI",
+                    "src": "https://www.bing.com/images/create/beef-patties-with-mushroom-gravy/1-663f49d84e6b4c6180465a6afb9c5171?id=RArowWOYq4tbFSy3Dphxkg%3d%3d&view=detailv2&idpp=genimg&thId=OIG1.SdAFhXBcMegUidbFE88r&FORM=GCRIDP&mode=overlay"
+                },
+                "recipe": {
+                    "Author": "Lalaine Manalo",
+                    "Link": "https://www.kawalingpinoy.com/burger-steak/"
+                }
+            }
+        },
+        "chickenCaldereta": {
+            "id": "24",
+            "name": "Chicken Caldereta",
+            "type": "Stew",
+            "category": "meat",
+            "ingredients": [
+                "3.33 (3 to 4 pounds) whole chicken, cut into serving parts",
+                "1.67 cup pineapple juice",
+                "0.83 cup soy sauce",
+                "salt and pepper to taste",
+                "0.83 cup canola oil",
+                "6.67 medium potatoes, peeled and quartered",
+                "3.33 large carrot, peeled and cut diagonally in a bias into ½-inch thick",
+                "3.33 small green bell pepper, cored, seeded and cut into 2-inch cubes",
+                "3.33 small red bell pepper, cored, seeded and cut into 2-inch cubes",
+                "3.33 onion, peeled and chopped",
+                "10 cloves garlic, peeled and minced",
+                "10 Thai chili peppers, stemmed and chopped",
+                "6.67 cups tomato sauce",
+                "5 cups water",
+                "0.83 cup green olives",
+                "1.67 cup liver spread",
+                "1.67 cup Eden cheese or any quick melt cheese"
+            ],
+            "preparation": [
+                "In a large bowl, combine chicken, pineapple juice, soy sauce, and salt and pepper to taste. Marinate chicken for about 30 minutes. Drain very well, reserving liquid.",
+
+                "In a wide pan over medium heat, heat oil. Add potatoes and cook until lightly browned. Remove from pan and drain on paper towels.",
+
+                "Add carrots and cook until lightly browned. Remove from pan and drain on paper towels.",
+
+                "Add bell peppers and cook, stirring regularly, for about 30 seconds. Remove from pan and drain on paper towels.",
+
+                "In the pan, add chicken and cook until lightly browned. Remove from pan and drain on paper towels. Discard excess oil from pan, leaving about 2 tablespoons.",
+
+                "Add onions and garlic and cook until softened.",
+
+                "Add tomato sauce, water and reserved marinade. Bring to a boil.",
+
+                "Add chili peppers and cook for about 30 seconds.",
+
+                "Add chicken and olives.",
+
+                "Lower heat, cover and continue to cook for about 15 to 20 minutes or until chicken is tender and cooked through.",
+
+                "Add potatoes and carrots and cook until tender.",
+
+                "Add liver spread and stir until well well-distributed.",
+
+                "Add cheese and stir until melted. Season with salt and pepper.",
+
+                "Add bell peppers. Continue to cook for about 2 to 3 minutes or until sauce is thickened. Serve hot."
+            ],
+            "img_src": "chicken_caldereta.jpeg",
+            "rating": {
+                "stars": 5,
+                "qty": "896"
+            },
+            "source": {
+                "image": {
+                    "by": "AI",
+                    "src": "https://www.bing.com/images/create/chicken-caldereta-that-is-simmered-in-a-spicy-toma/1-663f468b8ee24358be64a9c96aafb480?id=NcLqjxcp07cfTeuEYRjoIA%3d%3d&view=detailv2&idpp=genimg&thId=OIG2.zOlffp5SAP71pMww3gIt&FORM=GCRIDP&mode=overlay"
+                },
+                "recipe": {
+                    "Author": "Lalaine Manalo",
+                    "Link": "https://www.kawalingpinoy.com/chicken-caldereta/"
+                }
+            }
+        }
+    },
+    "dessert": {
+        "mangoFloat": {
+            "id": "1",
+            "name": "Mango Float",
+            "type": "Icebox Dessert",
+            "category": "dessert",
+            "ingredients": [
+                "3.33 cups heavy cream, very cold",
+                "1.67 can (14 oz) condensed milk, chilled",
+                "10 Manila mangoes, peeled and cubed",
+                "30 pieces graham crackers, (about 3 inches in length) and more for garnish",
+                "2 packs graham crackers from 1 box"
+            ],
+            "preparation": [
+                "Line 8 x 8 baking dish with parchment paper, leaving about a 1-inch overhang on all sides. Set aside.",
+
+                "In a bowl, combine heavy cream and condensed milk. Using a hand mixer on low speed, whip mixture until it reaches firm peaks. ",
+
+                "Gently fold in half of the diced mangoes, making sure not to deflate the whipped cream. ",
+
+                "Arrange one layer of graham crackers on bottom of prepared dish. Spoon ⅓ of cream mixture on crackers and spread to cover.",
+
+                "Arrange another layer of graham over the cream. Spoon and spread ⅓ of the cream mixture. Repeat with another layer of graham crackers. Spoon and spread remaining ⅓ of the cream mixture on top of crackers. ",
+
+                "Arrange the remaining diced mangoes on top of the cream and garnish with crushed graham crackers.",
+
+                "Cover tightly with plastic film and freeze for about 4 to 5 hours until firm.",
+
+                "To serve, lift the cake from the pan using parchment paper overhang as support and transfer onto a serving platter. Cut into serving portions."
+            ],
+            "img_src": "mangofloat.jpg",
+            "rating": {
+                "stars": 5,
+                "qty": "1.7k"
+            },
+            "source": {
+                "image": {
+                    "by": "AI",
+                    "src": "https://www.bing.com/images/create/"
+                },
+                "recipe": {
+                    "Author": "Lalaine Manalo",
+                    "Link": "https://www.kawalingpinoy.com/mango-royale/"
+                }
+            }
+        },
+        "halohalo": {
+            "id": "5",
+            "name": "Halo-halo",
+            "type": "Summertime Dessert",
+            "category": "dessert",
+            "ingredients": [
+                "2.5 cup gulaman cubes or sago",
+                "2.5 cup sweetened beans (garbanzo, red mung, and/or white beans)",
+                "2.5 cup Nata de coco, drained well",
+                "2.5 cup Kaong, drained well",
+                "2.5 cup sweetened saba bananas",
+                "2.5 cup sweetened jackfruit strips",
+                "1.25 cup sweetened macapuno",
+                "2.5 cup ube halaya",
+                "shaved ice",
+                "5 cup evaporated milk",
+                "5 cup leche flan",
+                "20 scoops ice cream (mango, ube, or vanilla)"
+            ],
+            "preparation": [
+                "Prepare the gulaman according to package directions. Use less water than called for to yield a firmer texture.",
+
+                "Prepare the ingredients from scratch or use bottled halo-halo ingredients.",
+
+                " In a tall glass, add about a teaspoon each of desired add-ins to about ⅓ full.",
+
+                "Pack the glass with shaved ice.",
+
+                "Drizzle evaporated milk over the ice.",
+
+                "Top the ice with leche flan and scoop of ice cream.",
+
+                "Garnish with strips of macapuno and sprinkle with pinipig, if desired.",
+
+                "Serve immediately."
+            ],
+            "img_src": "halohalo.jpg",
+            "rating": {
+                "stars": 4,
+                "qty": "1.2k"
+            },
+            "source": {
+                "image": {
+                    "by": "AI",
+                    "src": "https://www.bing.com/images/create/"
+                },
+                "recipe": {
+                    "Author": "Lalaine Manalo",
+                    "Link": "https://www.kawalingpinoy.com/halo-halo/"
+                }
+            }
+        },
+        "taho": {
+            "id": "13",
+            "name": "Taho",
+            "type": "Snack",
+            "category": "dessert",
+            "ingredients": [
+                "1 cup water",
+                "1 cup dark brown sugar",
+                "1 pandan leaf, tied into a knot",
+                "½ cup sago pearls",
+                "2 packages (12 ounces each) soft silken tofu"
+            ],
+            "preparation": [
+                "In a pot over medium heat, bring enough water to cover sago pearls to a boil. Add sago pearls, stir gently, and cook for about 10 minutes or until translucent. Remove from heat, rinse well and drain.",
+
+                "In the pot, add boiled sago and enough cold water to cover. Cook over medium heat, stirring occasionally, and bring to a gentle boil. When water has boiled for about 6 to 10 minutes, remove from heat, rinse well and drain.",
+
+                "In the pot, add enough cold water to cover sago, and bring to a gentle boil. Repeat the process until pearls are tender but chewy and translucent with no white in the center.",
+
+                "Under cold, running water, rinse sago a few times to remove excess starch. Allow to cool. Use as needed or store in simple syrup until ready to use.",
+
+                "In a saucepan over medium heat, add water and pandan leaf and bring to a boil for about 2 to 3 minutes. Remove and discard pandan leaf.",
+
+                "Add brown sugar. Stir continuously until sugar is dissolved. Simmer, stirring continuously, until mixture is slightly thickened and syrupy.",
+
+                "Add cooked sago and continue to cook for about 2 to 3 minutes.",
+
+                "Place tofu block in a cheesecloth-lined steamer and steam for about 7 to 10 minutes or until heated through.",
+
+                "Alternatively, place tofu in an oven-safe dish, loosely wrap with plastic film, and microwave for about 40 to 50 seconds or until heated through.",
+
+                "Using a wide, flat serving spoon, divide tofu into serving bowls. Spoon sago and syrup on top. Serve warm."
+            ],
+            "img_src": "Taho.jpg",
+            "rating": {
+                "stars": 4,
+                "qty": "420"
+            },
+            "source": {
+                "image": {
+                    "by": "AI",
+                    "src": "https://www.bing.com/images/create"
+                },
+                "recipe": {
+                    "Author": "Lalaine Manalo",
+                    "Link": "https://www.kawalingpinoy.com/taho/"
+                }
+            }
+        },
+        "lecheFlan": {
+            "id": "1",
+            "name": "Leche Flan",
+            "type": "Pudding",
+            "category": "dessert",
+            "ingredients": [
+                "15 pieces eggs",
+                "1.5 can condensed milk (14 oz)",
+                "1.5 cup fresh milk or evaporated milk",
+                "1.5 cup granulated sugar",
+                "1.5 teaspoon vanilla extract"
+            ],
+            "preparation": [
+                "Using all the eggs, separate the yolk from the egg white (only egg yolks will be used).",
+
+                "Place the egg yolks in a big bowl then beat them using a fork or an egg beater",
+
+                "Add the condensed milk and mix thoroughly",
+
+                "Pour-in the fresh milk and Vanilla. Mix well",
+
+                "Put the mold (llanera) on top of the stove and heat using low fire",
+
+                "Put-in the granulated sugar on the mold and mix thoroughly until the solid sugar turns into liquid (caramel) having a light brown color. Note: Sometimes it is hard to find a Llanera (Traditional flan mold) depending on your location. I find it more convenient to use individual Round Pans in making leche flan.",
+
+                "Spread the caramel (liquid sugar) evenly on the flat side of the mold",
+
+                "Wait for 5 minutes then pour the egg yolk and milk mixture on the mold",
+
+                "Cover the top of the mold using an Aluminum foil",
+
+                "Steam the mold with egg and milk mixture for 30 to 35 minutes.",
+
+                "After steaming, let the temperature cool down then refrigerate",
+
+                "Serve for dessert. Share and Enjoy!"
+            ],
+            "img_src": "lecheflan.png",
+            "rating": {
+                "stars": 5,
+                "qty": "2.3k"
+            },
+            "source": {
+                "image": {
+                    "by": "Lesyy",
+                    "src": "https://media.istockphoto.com/id/465327527/photo/creme-caramel-with-raspberries.webp?s=1024x1024&w=is&k=20&c=gYAK3MzuuXD4zrkM3IgNyQHwEalz6ow7EqDxKVft0v0="
+                },
+                "recipe": {
+                    "Author": "Vanjo Merano",
+                    "Link": "https://panlasangpinoy.com/leche-flan/"
+                }
+            }
+        },
+        "cassavaCake": {
+            "id": "3",
+            "name": "Cassava Cake",
+            "type": "Cake",
+            "category": "dessert",
+            "ingredients": [
+                "3.33 packs grated cassava about 2 lbs total weight",
+                "3.33 cups coconut milk",
+                "0.83 12 oz. can evaporated milk",
+                "5 pieces egg",
+                "0.42 cup butter melted",
+                "10 tablespoons cheddar cheese grated",
+                "0.83 cup condensed milk",
+                "23.33 tablespoons granulated white sugar",
+                "3.33 tablespoons flour",
+                "3.33 tablespoons sugar",
+                "0.83 cup condensed milk",
+                "3.33 tablespoons cheddar cheese grated",
+                "3.33 cups coconut milk"
+            ],
+
+            "preparation": [
+                "Make the batter by combining the grated cassava, butter, 1/2 cup condensed milk, 1/2 cup evaporated milk, 6 tablespoons cheddar cheese, 14 tablespoons sugar, and 2 eggs in a mixing bowl and mix thoroughly.",
+
+                "Add the 2 cups coconut milk in the mixing bowl where the mixed ingredients are. Mix again.",
+
+                "Grease the baking tray then pour-in the batter (these are the ingredients that you just mixed together).",
+
+                "Pre -heat oven for 350 degrees Fahrenheit for 10 minutes then put-in the baking tray with batter and bake for 1 hour. Remove from the oven and set aside.",
+
+                "Meanwhile prepare the topping by combining 2 tablespoons sugar and flour in the heated saucepan.",
+
+                "Pour-in 1/2 cup condensed milk then mix thoroughly.",
+
+                "Add 2 tablespoons cheddar cheese while stirring constantly.",
+
+                "Pour 2 cups of coconut milk and stir constantly for 10 minutes.",
+
+                "Pour the topping over the Cassava Cake (baked batter) and spread evenly.",
+
+                "Separate the yolk from the egg white of the remaining egg (we’ll be needing the egg white only).",
+
+                "Glaze the topping with the egg white using a basting brush. Simply dip the brush to the egg white and brush it on the cassava cake.",
+
+                "Set your oven to broil mode. Broil the Cassava cake until color turns light brown.",
+
+                "Garnish with extra grated cheese on top. Serve. Share and enjoy!"
+            ],
+            "img_src": "cassava.png",
+            "rating": {
+                "stars": 4,
+                "qty": "260"
+            },
+            "source": {
+                "image": {
+                    "by": "Gustavo Mellossa",
+                    "src": "https://media.istockphoto.com/id/1257771689/photo/manioc-cake-on-wooden-table-with-green-background-copy-space.jpg?s=1024x1024&w=is&k=20&c=FsAyCl4pzVUub6B-Mo2rF2hwjSsXUfHDb5h74odIuUU="
+                },
+                "recipe": {
+                    "Author": "Vanjo Merano",
+                    "Link": "https://panlasangpinoy.com/filipino-food-dessert-holiday-cassava-cake-recipe/"
+                }
+            }
+        },
+        "suman": {
+            "id": "4",
+            "name": "Suman",
+            "type": "Rice Cake",
+            "category": "dessert",
+            "ingredients": [
+                "10 cups glutinous rice",
+                "3.13 tablespoons sea salt",
+                "5.63 cups coconut milk",
+                "2.5 cup water"
+            ],
+
+            "preparation": [
+                "Make the buri container by swirling the buri leaves on a mold that is about 1 1/2 inches in width. Lock the cylindrical leaf container that you made to prevent the leaf from swirling back.",
+
+                "Wash the rice and then place in a large bowl.",
+
+                "Pour-in water. Let the rice absorb the water.",
+
+                "Pour-in the coconut milk and then add the salt. Gently mix and let stand for 10 minutes.",
+
+                "Scoop the mixture to the buri container and then seal. Set aside.",
+
+                "Arrange the suman in a large cooking pot. Pour-in about a quart of water. Let boil.",
+
+                "Adjust the heat to low-medium and let the suman cook for 60 to 90 minutes.",
+
+                "Remove from the cooking pot. Let the temperature cool down.",
+
+                "Serve with ripe mangoes on the side. Share and enjoy!"
+            ],
+
+            "img_src": "suman.jpg",
+            "rating": {
+                "stars": 4,
+                "qty": "68"
+            },
+            "source": {
+                "image": {
+                    "by": "Jasmine Briones",
+                    "src": "https://sweetsimplevegan.com/wp-content/uploads/2021/12/suman-malagkit-recipe-Sweet-Simple-Vegan-6-1.jpg"
+                },
+                "recipe": {
+                    "Author": "Vanjo Merano",
+                    "Link": "https://panlasangpinoy.com/suman-sa-ibos-recipe/"
+                }
+            }
+        }
+    },
+    "vegan": {
+        "lumpiangGulay": {
+            "id": "6",
+            "name": "Lumpiang Gulay",
+            "type": "Spring Rolls",
+            "category": "vegan",
+            "ingredients": [
+                "Vegetable Filling",
+                "36 pieces flour spring roll or lumpia wrappers mine were 8.5” squares, thawed into room temperature Sweet Chili Pink Vinegar Neutral oil, for frying",
+                "3 tbsp neutral oil",
+                "6 cloves garlic minced",
+                "15 cups (500g) shredded cabbage",
+                "3 cup (120g) shredded carrot, from 1 medium carrot",
+                "450 g green beans or bitswelas ends and veins removed then thinly sliced",
+                "3 (80g) small red bell pepper, thinly sliced",
+                "3 (80g) small green bell pepper, thinly sliced",
+                "3 tsp salt or to taste",
+                "3 tbsp soy sauce or to taste",
+                "0.75 tsp ground pepper",
+
+                "Sweet Chili Pink Vinegar",
+                "0.75 cup distilled white vinegar",
+                "0.75 tsp salt",
+                "3 tbsp organic cane sugar adjust depending on desired sweetness",
+                "1.5 red onion diced",
+                "0.75 tsp crushed black pepper",
+                "3 fresh bird's eye chili sliced"
+            ],
+            "preparation": [
+                "Heat a large pan or wok over medium high heat. Once hot, add in oil then sauté the onion, scallions, and garlic. When cooked, add in the carrots. Sauté for 2 to 3 minutes over high heat until tender. Afterwards, add in the rest of the vegetables and cook over medium high heat. Mix occasionally to ensure the veggies don't burn and stick to the bottom of the pan.",
+
+                "Add a splash of water to cook down the vegetables, if added. Season with the soy sauce, salt, and pepper. Mix well and cook for another 3-4 minutes over medium heat until cooked through and water from the vegetables have evaporated.",
+
+                "Taste the filling and feel free to adjust the seasoning according to your desired flavours. Turn off the heat and transfer the filling to a bowl. Set the filling aside and leave to cool for a few minutes.",
+
+                "Prepare the wrappers by carefully separating them from one another. Make sure they've been thawed and are at room temperature. This way, they're pliable and won't easily break. Prepare a small bowl of room temperature water as well.",
+
+                "Add in 2 tbsp* of the filling on the bottom of the wrapper. Slowly roll to the top then fold the sides before continuing to roll to the top and sealing the edge with water.",
+
+                "Note: the amount of filling to place in each will depend on the size of your wrappers",
+
+                "Heat a deep frying pan over high heat with oil enough to submerge at least half of the spring rolls. Once hot, place a few rolls. Cook over medium high heat.",
+
+                "Flip after 2 minutes or until golden brown to cook the other side. Once both sides are golden brown, remove from the oil. Transfer the rolls on a strainer or on a plate lined with some paper towels to drain any excess oil. Do not turn off the heat until all rolls are cooked and have been removed from the pan, to ensure they won't absorb the oil.",
+
+                "Let cool for a few minutes. Do not cover the spring rolls or stack them on top of one another while still hot, so they stay crispy. Enjoy the rolls while hot and dip in some vinegar!",
+
+                "Add the white vinegar, salt, and sugar in a bowl until the sugar is diluted. Add in the rest of the ingredients."
+            ],
+            "img_src": "LumpiangGulay.jpg",
+            "rating": {
+                "stars": 4,
+                "qty": "360"
+            },
+            "source": {
+                "image": {
+                    "by": "AI",
+                    "src": "https://www.bing.com/images/create"
+                },
+                "recipe": {
+                    "Author": "Jeeca",
+                    "Link": "https://thefoodietakesflight.com/filipino-lumpiang-gulay/#recipe"
+                }
+            }
+        },
+        "adobongTokwa": {
+            "id": "7",
+            "name": "Adobong Tokwa",
+            "type": "Vegan",
+            "category": "vegan",
+            "ingredients": [
+                "1350 g extra firm tofu or tokwa",
+                "9-12 tbsp neutral oil see notes",
+                "36 cloves garlic",
+                "3 medium red onion sliced into squares",
+                "1.5 to 3 tsp whole pepper",
+                "12 dried bay leaves or laurel leaves",
+                "6-9 tbsp soy sauce",
+                "6-9 tbsp distilled white vinegar",
+                "2.25 cup vegetable broth or stock",
+                "3 tsp dark soy sauce",
+                "1.5-3 tbsp sugar adjust to taste"
+            ],
+            "preparation": [
+                "Press your tofu to remove excess water. Slice into cubes or shape of your choice.",
+
+                "Heat a large non-stick pan or skillet. Add a generous amount of oil. Pan-fry or deep fry the tofu in neutral oil until golden brown and crisp on all sides.",
+
+                "Move the tofu to the side of the pan.",
+
+                "Add in the onions, garlic, and whole pepper corns. Leave the garlic and onions to cook until tender, around 3-4 minuets.",
+
+                "Add the bay leaves, soy sauce, vinegar, and vegetable broth. Mix well and leave to simmer over medium heat until it comes to a boil.",
+
+                "Add in sugar and dark soy sauce, if using. Taste the sauce and feel free to adjust to your taste. ",
+
+                "Leave the tofu to cook in the sauce for 10-12 minutes or until the sauce has reduced. "
+            ],
+            "img_src": "AdobongTokwa.jpg",
+            "rating": {
+                "stars": 5,
+                "qty": "969"
+            },
+            "source": {
+                "image": {
+                    "by": "AI",
+                    "src": "https://www.bing.com/images/create"
+                },
+                "recipe": {
+                    "Author": "Jeeca",
+                    "Link": "https://thefoodietakesflight.com/tofu-adobo-adobong-tokwa/#recipe"
+                }
+            }
+        },
+        "Sopas": {
+            "id": "8",
+            "name": "Sopas",
+            "type": "Soup",
+            "category": "vegan",
+            "ingredients": [
+                "6 tbsp vegan butter",
+                "3 small onion , diced",
+                "6 cloves garlic , minced",
+                "3 small carrot , peeled and diced",
+                "3 small red bell pepper , peeled and diced",
+                "3 cup vegan ham , diced",
+                "1.5 cup vegan sausages",
+                "15 cups water",
+                "3 vegetable cube",
+                "13.5 oz elbow or shell macaroni (1 cup)",
+                "35.4 oz vegan evaporated milk",
+                "Salt and pepper to taste",
+                "6 cups chopped cabbage"
+            ],
+            "preparation": [
+                "Heat a large pot or dutch oven over medium heat. Once hot, melt the vegan butter. Sauté the onion for 1 minute until translucent.",
+
+                "Add in the garlic and cook until lightly brown. Stir-fry the bell pepper and carrot for 2 minutes.",
+
+                "Add in the ham and sausages and stir-fry as well. Pour into the pot the vegetable stock or water and a vegetable cube.",
+
+                "Cover the pot and allow to come to a boil. Once it comes to a boil, taste the soup and season with salt and pepper to taste.",
+
+                "Add the macaroni into the soup and allow to cook until all done. Add in the vegan evaporated milk or plant milk into the soup.",
+
+                "Season the soup with more salt and pepper, if needed.",
+
+                "Mix well and add in the cabbage. Turn off the heat and allow the cabbage to cook in the residual heat.",
+
+                "Serve while hot and divide into bowls."
+            ],
+            "img_src": "Sopas.jpg",
+            "rating": {
+                "stars": 4,
+                "qty": "280"
+            },
+            "source": {
+                "image": {
+                    "by": "AI",
+                    "src": "https://www.bing.com/images/create"
+                },
+                "recipe": {
+                    "Author": "Jeeca",
+                    "Link": "https://thefoodietakesflight.com/sopas-filipino-macaroni-soup/#recipe"
+                }
+            }
+        },
+        "ensaladangTalong": {
+            "id": "9",
+            "name": "Ensaladang Talong",
+            "type": "Salad",
+            "category": "vegan",
+            "ingredients": [
+                "1050 g Chinese eggplant",
+                "Neutral oil for brushing",
+                "2.25 cup distilled white vinegar",
+                "12-18 tbsp cane sugar ",
+                "Freshly ground black pepper",
+                "12 small tomatoes diced",
+                "6 small red onion diced",
+                "3 cup diced fresh apple mangoes optional",
+                "3 bird's eye chili sliced (optional for heat)",
+                "Chopped cilantro for topping"
+            ],
+            "preparation": [
+                "Brush some oil to coat the skin of your eggplants.",
+
+                "Prepare your grill or turn on your gas range. Using a pair of tongs over open fire, roast the eggplants for 10-12 minutes or until these are charred, blistered, and wrinkly. You will need to turn and flip your eggplants around. Keep an eye out on these and rotate the eggplants to cook all sides evenly.",
+
+                "Once the eggplants are blistered and charred on the outside, the eggplants should be soft to the touch. You can puncture your eggplant with a fork to see if the thickest parts are cooked through.",
+
+                "Leave the eggplants foil for 5-10 minutes to allow these to rest and cool.",
+
+                "Meanwhile, prepare the dressing by mixing together the vinegar, sugar, and pepper. Feel free to adjust to your taste.",
+
+                "Prepare your toppings. You can add the diced tomatoes, onions, and apple mangoes (if using) in the dressing. Set aside.",
+
+                "Everything mixed together. Peel the skin off the eggplants once it cools and cut up the eggplant flesh into shorter pieces and mix these all up in a bowl with the dressing, tomatoes, onions, mangoes, and cilantro.",
+
+                "Then serve it into a bowl"
+            ],
+            "img_src": "EnsaladangTalong.jpg",
+            "rating": {
+                "stars": 3,
+                "qty": "4"
+            },
+            "source": {
+                "image": {
+                    "by": "AI",
+                    "src": "https://www.bing.com/images/create"
+                },
+                "recipe": {
+                    "Author": "Jeeca",
+                    "Link": "https://thefoodietakesflight.com/ensaladang-talong-filipino-eggplant-salad/#recipe"
+                }
+            }
+        }
+    },
+    "drinks": {
+        "blackGulaman": {
+            "id": "10",
+            "name": "Black Gulaman",
+            "type": "Refreshing",
+            "category": "drinks",
+            "ingredients": [
+                "For the gulaman:",
+                "25 grams black gulaman powder",
+                "1 cup brown sugar",
+                "6 cups water",
+                "For the arnibal:",
+                "2 cups water",
+                "2 cups brown sugar",
+                "4 teaspoons vanilla extract"
+            ],
+            "preparation": [
+                "In a pot, dilute the 1 cup brown sugar and black gulaman powder in water.",
+
+                "Bring the black gulaman mixture to a boil, stirring to ensure there are no lumps.",
+
+                "Transfer the mixture to a jelly molder or container and allow it to cool a bit.",
+
+                "Cover each molder or container before storing it in the refrigerator.",
+
+                "In a pan, bring water to a boil.",
+
+                "Stir in 2 cups brown sugar until dissolved; then add the vanilla essence.",
+
+                "Allow the mixture to boil, stirring occasionally, until the texture becomes syrupy.",
+
+                "Once done, transfer the syrup to a bowl and let it cool down.",
+
+                "Remove the gulaman from the fridge and slice it into cubes. Set aside.",
+
+                "In a glass, assemble the black gulaman drink by adding the sliced jelly, cold water, syrup, and ice cubes.",
+
+                "Serve your delicious beverage with your favorite snack."
+            ],
+            "img_src": "BlackGulaman.jpg",
+            "rating": {
+                "stars": 4,
+                "qty": "720"
+            },
+            "source": {
+                "image": {
+                    "by": "AI",
+                    "src": "https://www.bing.com/images/create"
+                },
+                "recipe": {
+                    "Author": "Travel Chef",
+                    "Link": "https://delishably.com/world-cuisine/How-to-Cook-Black-Gulaman"
+                }
+            }
+        },
+        "bukoShake": {
+            "id": "11",
+            "name": "Buko Shake",
+            "type": "Refreshing",
+            "category": "drinks",
+            "ingredients": [
+                "½ cup water",
+                "½ cup sugar",
+                "2 cups young coconut meat",
+                "1 cup coconut juice",
+                "½ cup evaporated milk",
+                "ice"
+            ],
+            "preparation": [
+                "In a saucepot, combine sugar and water. Over medium heat, bring to a simmer, stirring regularly, until sugar is dissolved and syrup is clear and no longer cloudy.",
+
+                "Remove the simple syrup from heat and allow to cool completely.",
+
+                "In a blender, combine coconut meat, coconut juice, evaporated milk, simple syrup, and ice. Blend until smooth.",
+
+                "Transfer into tall glasses and serve immediately."
+            ],
+            "img_src": "BukoShake.jpg",
+            "rating": {
+                "stars": 4,
+                "qty": "299"
+            },
+            "source": {
+                "image": {
+                    "by": "AI",
+                    "src": "https://www.bing.com/images/create"
+                },
+                "recipe": {
+                    "Author": "Lalaine Manalo",
+                    "Link": "https://www.kawalingpinoy.com/buko-shake/"
+                }
+            }
+        },
+        "calamansiJuice": {
+            "id": "12",
+            "name": "Calamanci Juice",
+            "type": "Cleanser",
+            "category": "drinks",
+            "ingredients": [
+                "¾ cup sugar",
+                "4 cups water",
+                "1 cup calamansi juice"
+            ],
+            "preparation": [
+                "In a saucepan, combine sugar and 1 cup of the water. Cook, stirring regularly, until sugar is dissolved. Remove from heat and allow to cool completely.",
+
+                "Halve the calamansi fruit and extract the juice by hand or a juicer. Using a fine-mesh sieve, strain and discard seeds and skin.",
+
+                "In a pitcher, combine calamansi juice, simple syrup, and the remaining 3 cups of water. Stir well to combine.",
+
+                "Chill in the refrigerator for a few hours or serve over ice."
+            ],
+            "img_src": "CalamanciJuice.jpg",
+            "rating": {
+                "stars": 4,
+                "qty": "180"
+            },
+            "source": {
+                "image": {
+                    "by": "AI",
+                    "src": "https://www.bing.com/images/create"
+                },
+                "recipe": {
+                    "Author": "Lalaine Manalo",
+                    "Link": "https://www.kawalingpinoy.com/calamansi-juice/"
+                }
+            }
+        }
+    },
+    "fish&seafood": {
+        "paksiwNaBangus": {
+            "id": "14",
+            "name": "Paksiw na Bangus",
+            "type": "Stew",
+            "category": "seafood",
+            "ingredients": [
+                "3 large milkfish",
+                "3 large eggplant, cut into 1-inch thick wedges",
+                "3 onion, peeled and sliced thinly",
+                "12 garlic, peeled and pounded",
+                "3 thumb-size ginger, sliced into thirds and pounded",
+                "1.5 cup vinegar",
+                "3 cup water",
+                "9 finger chili peppers",
+                "4.5 teaspoons salt",
+                "3 teaspoon peppercorns",
+                "3 teaspoon canola oil"
+            ],
+            "preparation": [
+                "Clean and gut the fish, leaving scales intact. Cut into serving parts.",
+
+                "In a wide pot combine fish, eggplant, onion, garlic, ginger, vinegar, water, finger chili peppers, salt, and peppercorns.",
+
+                "Cover and let simmer for about 10 to 15 minutes or until fish is cooked and liquid is reduced.",
+
+                "Drizzle oil on top and stir gently to combine. Serve hot."
+            ],
+            "img_src": "paksiwnabangus.jpg",
+            "rating": {
+                "stars": 4,
+                "qty": "230"
+            },
+            "source": {
+                "image": {
+                    "by": "AI",
+                    "src": "https://www.bing.com/images/create/"
+                },
+                "recipe": {
+                    "Author": "Lalaine Manalo",
+                    "Link": "https://www.kawalingpinoy.com/paksiw-na-bangus/"
+                }
+            }
+        },
+        "shrimpFriedRice": {
+            "id": "15",
+            "name": "Shrimp Fried Rice",
+            "type": "Rice Meal",
+            "category": "seafood",
+            "ingredients": [
+                "10 cups cooked white rice",
+                "1.88 cup frozen green peas",
+                "1.88 cup frozen small shrimp with no shell",
+                "1.25 cup carrot diced",
+                "1.25 teaspoon garlic powder",
+                "0.63 teaspoon salt",
+                "0.63 teaspoon onion powder",
+                "7.5 tablespoons butter"
+            ],
+            "preparation": [
+                "Combine the rice, salt, garlic powder, and onion powder Gently mix to blend all the ingredients.",
+
+                "Melt the butter in a pan.",
+
+                "Once the butter starts to get hot (make sure not to get the butter very hot), put-in green peas and carrots. Cook for 1 to 2 minutes.",
+
+                "Put the shrimp in the wok and cook for 1 minute.",
+
+                "Add the rice mixture. Cook for 10 minutes in medium heat while tossing once in a while. Make sure to toss the ingredients while cooking to blend them properly.",
+
+                "Transfer to a serving bowl. Serve for breakfast or lunch with your favorite dish.",
+
+                "Share and enjoy!"
+            ],
+            "img_src": "shrimpfriedrice.jpg",
+            "rating": {
+                "stars": 5,
+                "qty": "1.1k"
+            },
+            "source": {
+                "image": {
+                    "by": "AI",
+                    "src": "https://www.bing.com/images/create/"
+                },
+                "recipe": {
+                    "Author": "vanjo merano",
+                    "Link": "https://panlasangpinoy.com/shrimp-fried-rice-recipe/"
+                }
+            }
+        },
+        "adobongPusit": {
+            "id": "16",
+            "name": "Adobong Pusit",
+            "type": "Stew",
+            "category": "seafood",
+            "ingredients": [
+                "8 lbs. medium-sized squid",
+                "4 piece onion",
+                "8 pieces tomatoes",
+                "2 cup soy sauce",
+                "2 cup vinegar",
+                "4 cup water",
+                "20 cloves crushed garlic",
+                "4 teaspoon sugar",
+                "Salt and pepper to taste",
+                "8 tbsp cooking oil"
+            ],
+            "preparation": [
+                "Heat a wok or cooking pot them pour-in soy sauce, vinegar, and water then bring to a boil.",
+
+                "Add the squid and wait for the liquid to re-boil. Simmer for 5 minutes.",
+
+                "Turn off the heat then separate the squid from the liquid. Set aside.",
+
+                "Pour-in cooking oil on a separate wok of cooking pot then apply heat.",
+
+                "When the oil is hot enough, sauté the garlic, onions, and tomatoes.",
+
+                "Put-in the squid then cook for a few seconds.",
+
+                "Pour-in the soy sauce-vinegar-water mixture that was used to cook the squid a while back. Bring to a boil and simmer for 3 minutes.",
+
+                "Add the ink, salt, ground black pepper, and sugar then stir. Simmer for 3 minutes.",
+
+                "Transfer to a serving bowl then serve.",
+
+                "Share and enjoy!",
+
+                "Note: If you want a thicker sauce, remove the squid from the wok or cooking pot and let the sauce boil until enough liquid evaporates. Once done, you may top the squid with the sauce."
+            ],
+            "img_src": "adobongpusit.jpg",
+            "rating": {
+                "stars": 4,
+                "qty": "1k"
+            },
+            "source": {
+                "image": {
+                    "by": "Joost Nusselder",
+                    "src": "https://www.flickr.com/photos/mightygoodman/50225303666/in/photolist-7WfTnj-ioGVKH-2jweNXu-2jwbw3L-g4yhD-2jwbw4s-rYg6ti"
+                },
+                "recipe": {
+                    "Author": "vanjo merano",
+                    "Link": "https://panlasangpinoy.com/adobong-pusit-recipe/"
+                }
+            }
+        },
+        "inihawNaTilapia": {
+            "id": "17",
+            "name": "Inihaw na Tilapia",
+            "type": "Grilled",
+            "category": "seafood",
+            "ingredients": [
+                "6 medium tilapia fish cleaned (scales, innards, and gills removed)",
+                "3 to 4.5 teaspoons sea salt",
+                "A dash of ground black pepper",
+                "Cooking oil spray for grilling"
+            ],
+            "preparation": [
+                "Pat the tilapia dry using a paper towel.",
+
+                "Arrange the tilapia in a plate and rub salt and pepper all over the fish including its cavity.",
+
+                "Spray cooking oil spray on the grill.",
+
+                "Start to heat the grill.",
+
+                "Grill each side of the tilapia for 10 minutes. Note: use a spatula to turn the fish over so that the sides will be intact and clean.",
+
+                "Transfer to a serving plate. Serve with lime or lemon wedges.",
+
+                "Share and enjoy!"
+            ],
+            "img_src": "inihawnatilapia.jpg",
+            "rating": {
+                "stars": 4,
+                "qty": "120"
+            },
+            "source": {
+                "image": {
+                    "by": "AI",
+                    "src": "https://www.bing.com/images/create/"
+                },
+                "recipe": {
+                    "Author": "vanjo merano",
+                    "Link": "https://panlasangpinoy.com/inihaw-na-tilapia-recipe/"
+                }
+            }
+        }
+    },
+    "pasta": {
+        "filipinoSpaghetti": {
+            "id": "17",
+            "name": "Filipino Spaghetti",
+            "type": "Filipino Originals",
+            "category": "pasta",
+            "ingredients": [
+                "2 lbs. Spaghetti noodles",
+                "1 lb. ground pork",
+                "6 ounces luncheon meat minced",
+                "4 pieces hotdogs or beef franks",
+                "35 ounces Filipino Style Spaghetti Sauce",
+                "1/2 cup shredded cheddar cheese",
+                "1 1/2 cups beef broth",
+                "1 medium onion minced",
+                "1 teaspoon minced garlic",
+                "Salt and pepper to taste",
+                "3 tablespoons cooking oil"
+            ],
+            "preparation": [
+                "Cook the Spaghetti noodles according to package instructions. Once cooked, transfer to a bowl. Set aside.",
+
+                "Heat the oil in a Pan.",
+
+                "Saute the onion and garlic.",
+
+                "Once the onions becomes soft, add the ground pork. Cook until the color turns light brown.",
+
+                "Add the luncheon meat and hotdog. Stir and cook for 2 to 3 minutes.",
+
+                "Pour-in the Spaghetti sauce and beef broth. Stir and let boil. Cover and simmer for 30 minutes.",
+
+                "Try to taste the sauce and add salt and pepper if needed.",
+
+                "Pour the Filipino Style Spaghetti sauce over the Spaghetti. Top with shredded cheese.",
+
+                "Serve and enjoy!"
+            ],
+            "img_src": "Filipino_Spaghetti.jpg",
+            "rating": {
+                "stars": 4,
+                "qty": "2.8k"
+            },
+            "source": {
+                "image": {
+                    "by": "WellBeach Scuba Diving Resort",
+                    "src": "https://www.flickr.com/photos/wellbeachscubaresort/15873473452/in/photolist-qbFGCL-bfgbBX-F9HPR-4NkN1w-duPGtA-7Ej3NY-5EAF1v-6pvjeT-5qKHEz-8fDZS7-5VcjW6-jkCV87-57nGQP-4xnrfm-anG53x-2bdpmai-rPLZwP-7KTo53-mnrjZS-VyGYKu-77XQ5-49NmoE-QoRy3-2bdpmaZ-8ViYXN-Fk8fpZ-ihDgPW-83wroT-4fb92p-HEFpYY-6f6aj7-mEfUt-dYLSoe-UwUBHN-5hxXD9-5CDYvp-6oHgj8-5J7kg3-8WhMB3-6WdQwQ-nEU5Zv-574SvZ-7zBmN7-5B8aH-o94D7D-5pjAsj-ewmnGL-7zBmKG-aMBp1B"
+                },
+                "recipe": {
+                    "Author": "vanjo merano",
+                    "Link": "https://panlasangpinoy.com/filipino-style-spaghetti/"
+                }
+            }
+        },
+        "spinachAlfredoPasta": {
+            "id": "18",
+            "name": "Spinach Alfredo Pasta",
+            "type": "Pasta",
+            "category": "pasta",
+            "ingredients": [
+                "12 oz. fettuccine pasta",
+                "2 Tbsp butter",
+                "2 cloves garlic, minced",
+                "2 cups whole milk",
+                "6 oz. cream cheese",
+                "3/4 cup grated Parmesan",
+                "1/4 tsp salt",
+                "Freshly cracked black pepper",
+                "4 cups baby spinach"
+            ],
+            "preparation": [
+                "Bring a large pot of water to a boil to cook the pasta. Once boiling, add the pasta and cook until al dente. Drain the pasta in a colander.",
+
+                "While the pasta is cooking, prepare the sauce. Add the butter and minced garlic to a deep skillet or pot and sauté over medium heat for 1-2 minutes, or just until the garlic is soft and fragrant, but not brown.",
+
+                "Turn the heat down to medium-low. Add the milk to the skillet along with the cream cheese (cut into chunks). Heat the milk and cream cheese while whisking, until the cream cheese has fully melted into the milk.",
+
+                "Whisk in the grated Parmesan cheese and continue to whisk as the sauce comes up to a gentle simmer. When it reaches a simmer, the sauce will thicken. Turn the heat down to low to keep the sauce warm. Season the sauce with 1/4 tsp salt and a generous amount of freshly cracked pepper.",
+
+                "Add the fresh spinach to the sauce and stir it in until it has wilted and become limp.",
+
+                "Finally, add the cooked and drained pasta to the spinach alfredo sauce and stir to combine. Serve immediately."
+            ],
+            "img_src": "Spinach_Alfredo_Pasta.jpg",
+            "rating": {
+                "stars": 5,
+                "qty": "596"
+            },
+            "source": {
+                "image": {
+                    "by": "Bing AI Images",
+                    "src": "https://www.bing.com/images/create/"
+                },
+                "recipe": {
+                    "Author": "Beth - Budget Bytes",
+                    "Link": "https://www.budgetbytes.com/lighter-spinach-alfredo-pasta/"
+                }
+            }
+        },
+        "carbonara": {
+            "id": "19",
+            "name": "Carbonara",
+            "type": "Pasta",
+            "category": "pasta",
+            "ingredients": [
+                "1 piece Knorr beef cube",
+                "3/4 lb. spaghetti",
+                "7 strips bacon",
+                "15 ounces all-purpose cream",
+                "6 tablespoons grated Parmesan cheese",
+                "1 piece yellow onion chopped",
+                "2 cloves garlic minced",
+                "1/8 teaspoon ground nutmeg",
+                "1 teaspoon salt",
+                "2 quarts water"
+            ],
+            "preparation": [
+                "Cook the bacon until crispy. Do this by placing each strip in a pan. Cook in medium heat for 2 minutes. Flip the bacon and cook the opposite side for another 2 minutes. Continue performing the same steps until each piece gets crispy. Set aside. Save the bacon grease.",
+
+                "Cook the spaghetti by pouring water in a cooking pot. Let boil. Add salt and put the spaghetti into the pot. Cook for 12 minutes or until al dente. Remove the spaghetti Set aside. Save ¼ cup of water used to cook spaghetti.Prepare the carbonara sauce by heating 3 tablespoons of bacon grease. Saute onion and garlic.",
+
+                "One the onion softens, pour all-purpose cream into the pan. Stir. Add ¼ cup water.",
+
+                "Add Knorr Beef Cube. Stir until well blended.",
+
+                "Put chopped bacon and nutmeg into the sauce. Stir.",
+
+                "Add the cooked spaghetti. Toss until spaghetti gets totally coated with sauce.",
+
+                "Add Parmesan cheese. Toss. Add more bacon.",
+
+                "Transfer to a serving plate. Serve and enjoy!"
+            ],
+            "img_src": "Carbonara.png",
+            "rating": {
+                "stars": 4,
+                "qty": "1k"
+            },
+            "source": {
+                "image": {
+                    "by": "Daniel Y. Go",
+                    "src": "https://www.flickr.com/photos/danielygo/52478024427/in/photolist-RVLZAe-2jwMcfF-2nXiAmB-2mTY2mB-6Q1XDZ-2i1PYfj-21tDAjA-oYxNky-cZpHPs-2jwQwAB-7Sf5t6-9hKP8B-aw9yDq-5XrKsh-qbK4uc-rywjh-dMNJ8G-utqCu-28MJ8nW-EXzfm-8izD4a-9A8Ry5-8mEpHK-66ccVE-NZCBn-KXnaG-cDTnwh-dgBe2L-8Y1HBR-8Y4LEs-6sq5ZB-PG2wzH-2jwQvT9-2jwMcQP-nFG19g-2jwMdnL-aw9zuY-279qnmj-aw6Qxz-7mGQQn-bUud2s-66qLPQ-6h1LiW-ct7KuC-dxW69R-LnwVY-aJnE4c-9D1ns7/"
+                },
+                "recipe": {
+                    "Author": "vanjo merano",
+                    "Link": "https://panlasangpinoy.com/carbonara-recipe-filipino-style-knr-bc/"
+                }
+            }
+        },
+        "macNcheese": {
+            "id": "20",
+            "name": "Mac 'n Cheese",
+            "type": "Cheesy",
+            "category": "pasta",
+            "ingredients": [
+                "300 Grams elbow macaroni",
+                "1/2 Cup unsalted butter",
+                "2 tablespoons Garlic chopped",
+                "4 tablespoons onion chopped",
+                "3 tablespoons Flour",
+                "4 cups milk",
+                "1/2 Cup All-purpose cream",
+                "1 chicken bouillon cube (Optional)",
+                "1/2 teaspoon nutmeg ground or freshly grated",
+                "1/4 teaspoon black pepper freshly ground",
+                "1/2 Cup sharp cheddar cheese grated",
+                "1/2 Cup parmesan cheese grated",
+                "Salt to taste",
+                "1.2 Cup mozarella cheese (grated), for topping"
+            ],
+            "preparation": [
+                "Fill a large pot with salted water. Cover with the lid and bring to a boil. Cook macaroni according to package directions, then drain and set aside.",
+
+                "Melt butter in a deep skillet over medium heat. When butter bubbles, add garlic and onions. Cook for a few minutes until onions are soft. Add flour and cook, stirring for 1 minute. Whisk in milk a little at a time to keep mixture smooth. Continue cooking, whisking constantly, until mixture thickens. Remove pan from heat.",
+
+                "Stir in cream, chicken cube (if using), nutmeg, pepper, grated cheddar, and parmesan. Stir and allow to cool slightly. Season with salt and pepper to taste.",
+
+                "Add macaroni to cheese mixture and combine. Pour mixture into a 7x11-inch baking dish and spread evenly. Sprinkle mozzarella cheese on top. Bake in a 400°F oven until top is golden brown, about 15 minutes. Substitution tip: Make a grown-up version of this dish by substituting cheddar cheese with either fontina or gruyère."
+            ],
+            "img_src": "Macaroni_and_Cheese.jpg",
+            "rating": {
+                "stars": 4,
+                "qty": "496"
+            },
+            "source": {
+                "image": {
+                    "by": "Bing AI Images",
+                    "src": "https://www.bing.com/images/create/macaroni-and-cheese/1-663c9e28205d49878e4b3ab2b0b0f8cc?FORM=GUH2CR"
+                },
+                "recipe": {
+                    "Author": "Sari Jorge",
+                    "Link": "https://www.yummy.ph/recipe/sari-jorge-s-macaroni-and-cheese-a460-20131113"
+                }
+            }
+        }
+    }
+}

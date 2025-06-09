@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <meta charset="UTF-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            <title>Mac 'n Cheese</title>
+            <link
+                rel="shortcut icon"
+                href="../../images/Bussin logo.png"
+                type="image/png"
+            />
+    
+            <!-- For Bootstrap Icons -->
+            <link
+                rel="stylesheet"
+                href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+            />
+    
+            <!-- For Poppins Font -->
+            <link rel="preconnect" href="https://fonts.googleapis.com" />
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+            <link
+                href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+                rel="stylesheet"
+            />
+    
+            <link rel="stylesheet" href="../../styles/general.css" />
+            <link rel="stylesheet" href="../../styles/FoodDetails.css" />
+        </head>
+        <body>
+            <header class="header">
+                <div class="left">
+                    <!-- HAMBURGER BUTTON TO SHOW HAMBURGER MENU -->
+                    <button id="borgir-btn"><i class="bi bi-list"></i></button>
+
+                    <!-- HOMEPAGE LINK -->
+                    <a
+                        title="Bussuine"
+                        class="logo-wrapper-link"
+                        href="../../Homepage.html"
+                    >
+                        <img src="../../images/Bussin.png  " alt="Bussuine" />
+                    </a>
+                </div>
+
+                <!-- HAMBURGER MENU -->
+                <div class="borgir-menu-wrapper">
+                    <div class="borgir-menu">
+                        <div class="borgir-header">
+                            <a title="Bussuine" href="../../Homepage.html">
+                                <img
+                                    class="logo-borgir"
+                                    src="../../images/Bussin.png"
+                                    alt="Bussuine"
+                                />
+                            </a>
+                            <button id="close-borgir-btn">
+                                <i class="bi bi-chevron-compact-left"></i>
+                            </button>
+                        </div>
+
+                        <!-- HAMBURGER MENU SEARCH -->
+                        <div class="borgir-search-wrapper">
+                            <div class="search-wrapper">
+                                <input
+                                    type="text"
+                                    placeholder="Search a dish"
+                                    id="search"
+                                />
+                                <span id="search-btn"
+                                    ><i class="bi bi-search"></i
+                                ></span>
+                            </div>
+                        </div>
+    
+                        <div class="borgir-menu-list">
+                            <a href="../AllFoods.html">
+                                <h3>All Foods</h3>
+                                <span>></span>
+                            </a>
+                            <a href="../categoryPages/Dessert.html">
+                                <h3>Dessert</h3>
+                                <span>></span>
+                            </a>
+                            <a href="../categoryPages/Vegan.html">
+                                <h3>Vegan</h3>
+                                <span>></span>
+                            </a>
+                            <a href="../categoryPages/Meat.html">
+                                <h3>Meat</h3>
+                                <span>></span>
+                            </a>
+                            <a href="../categoryPages/Seafood.html">
+                                <h3>Seafood</h3>
+                                <span>></span>
+                            </a>
+                            <a href="../categoryPages/Drinks.html">
+                                <h3>Drinks</h3>
+                                <span>></span>
+                            </a>
+                            <a href="../categoryPages/Pasta.html">
+                                <h3>Pasta</h3>
+                                <span>></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+    
+                <div class="right">
+                    <a href="../../Homepage.html">HOME</a>
+                    <a href="../../AboutUs.html">ABOUT</a>
+                    <a href="../AllFoods.html">RECIPES</a>
+                    <div class="search-header-wrapper">
+                        <input
+                            type="text"
+                            name="search"
+                            id="search-header"
+                            placeholder="Search Foodies"
+                            autocomplete="off"
+                        />
+                        <span id="search-header-btn">
+                            <i class="bi bi-search"></i>
+                        </span>
+                        <div class="search-header-results"></div>
+                    </div>
+                </div>
+            </header>
+            <main class="main-content">
+                <div class="food-details-wrapper">
+                    <div class="detailsPage-header">
+                        <div class="detailsPageHeader--left">
+                            <h1>Mac 'n Cheese</h1>
+                            <div class="below-title">
+                                <div class="rating">
+                                    <span>&#9733;&#9733;&#9733;&#9733;&#9734;</span>
+                                    <span>(496)</span>
+                                </div>
+                                <span class="belowTitle--category">PASTA</span>
+                                <span class="belowTitle--type">Cheesy</span>
+                            </div>
+                            <div class="sources">
+                                <div>
+                                    <span>Recipe: </span>
+                                    <a 
+                                        class="source-link" 
+                                        href="https://www.yummy.ph/recipe/sari-jorge-s-macaroni-and-cheese-a460-20131113" 
+                                        target="_blank"
+                                    >
+                                    Sari Jorge
+                                    </a>
+                                </div>
+                                <div>
+                                    <span>Image: </span>
+                                    <a 
+                                        class="source-link" 
+                                        href="https://www.bing.com/images/create/macaroni-and-cheese/1-663c9e28205d49878e4b3ab2b0b0f8cc?FORM=GUH2CR"
+                                        target="_blank"    
+                                    >Bing AI Images</a>
+                                </div>
+                            </div>
+                        </div>
+                        <img
+                            src="../../images/foods/Macaroni_and_Cheese.jpg"
+                            alt="Mac 'n Cheese"
+                        />
+                    </div>
+                    <hr class="first-hr"/>
+                    <div class="ingredients-wrapper">
+                        <h2>Ingredients</h2>
+                        <ul class="ingredients">
+                            <li>300 Grams elbow macaroni</li><li>1/2 Cup unsalted butter</li><li>2 tablespoons Garlic chopped</li><li>4 tablespoons onion chopped</li><li>3 tablespoons Flour</li><li>4 cups milk</li><li>1/2 Cup All-purpose cream</li><li>1 chicken bouillon cube (Optional)</li><li>1/2 teaspoon nutmeg ground or freshly grated</li><li>1/4 teaspoon black pepper freshly ground</li><li>1/2 Cup sharp cheddar cheese grated</li><li>1/2 Cup parmesan cheese grated</li><li>Salt to taste</li><li>1.2 Cup mozarella cheese (grated), for topping</li>
+                        </ul>
+                    </div>
+                    <hr class="second-hr" />
+                    <div class="preparation-wrapper">
+                        <h2>Preparation</h2>
+                        <ul class="preparation">
+                            <li>
+                            <span>Step 1</span>
+                            <span>Melt butter in a deep skillet over medium heat. When butter bubbles, add garlic and onions. Cook for a few minutes until onions are soft. Add flour and cook, stirring for 1 minute. Whisk in milk a little at a time to keep mixture smooth. Continue cooking, whisking constantly, until mixture thickens. Remove pan from heat.</span>
+                        </li><li>
+                            <span>Step 2</span>
+                            <span>Stir in cream, chicken cube (if using), nutmeg, pepper, grated cheddar, and parmesan. Stir and allow to cool slightly. Season with salt and pepper to taste.</span>
+                        </li><li>
+                            <span>Step 3</span>
+                            <span>Add macaroni to cheese mixture and combine. Pour mixture into a 7x11-inch baking dish and spread evenly. Sprinkle mozzarella cheese on top. Bake in a 400°F oven until top is golden brown, about 15 minutes. Substitution tip: Make a grown-up version of this dish by substituting cheddar cheese with either fontina or gruyère.</span>
+                        </li>
+                        </ul>
+                    </div>
+                </div>
+                <footer class="footer">
+                    <div class="footer-left">
+                        <div class="footer-col1">
+                            <a class="footer-logo" href="./Homepage.html">
+                                <img
+                                    src="../../images/Bussin.png"
+                                    alt="Bussuine Logo"
+                                />
+                            </a>
+                            <p>
+                                "Bussuine: where every meal bursts with flavor!
+                                Discover mouth-watering recipes, cooking tips,
+                                and a community that celebrates the joy of eating well.
+                                Join us and make every bite truly bussin'!.
+                            </p>
+                            <div class="container-links-col1">
+                                <div class="buttons-footer">
+                                    <a href="../../AboutUs.html">About us</a>
+                                    <a href="../../Contact.html">Contact</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="footer-col2">
+                            <h4>Reach out to us</h4>
+                            <div class="footer-contact-deets">
+                                <div>
+                                    <span>
+                                        <i class="bi bi-envelope-fill"></i>
+                                    </span>
+                                    <span>
+                                        <a href="">Bussuine@gmail.com</a>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span>
+                                        <i class="bi bi-telephone-fill"></i>
+                                    </span>
+                                    <span>+63 998-417-9941</span>
+                                </div>
+                                <div>
+                                    <span>
+                                        <i class="bi bi-instagram"></i>
+                                    </span>
+                                    <span>
+                                        <a href="https://www.instagram.com/Bussuine/" target="_blank">Instagram</a>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span>
+                                        <i class="bi bi-facebook"></i>
+                                    </span>
+                                    <span>
+                                        <a href="https://www.facebook.com/Bussuine/" target="_blank">Facebook</a>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footer-right">
+                        <div class="footer-col3">
+                            <h4>Food Categories</h4>
+                            <div>
+                                <a href="../categoryPages/Dessert.html">Dessert</a>
+                                <a href="../categoryPages/Vegan.html">Vegan</a>
+                                <a href="../categoryPages/Meat.html">Meat</a>
+                                <a href="../categoryPages/Seafood.html">Seafood</a>
+                                <a href="../categoryPages/Drinks.html">Drinks</a>
+                                <a href="../categoryPages/Pasta.html">Pasta</a>
+                            </div>
+                        </div>
+                        <div class="footer-col4">
+                            <h4>Sponsors</h4>
+                            <div class="sponsors">
+                                <a
+                                    href="https://www.bing.com/images/create/"
+                                    target="_blank"
+                                >
+                                    Designer
+                                </a>
+                                <a
+                                    href="https://www.kawalingpinoy.com/"
+                                    target="_blank"
+                                >
+                                    kawaling Pinoy
+                                </a>
+                                <a
+                                    href="https://panlasangpinoy.com/"
+                                    target="_blank"
+                                >
+                                    Panlasang Pinoy
+                                </a>
+                                <a
+                                    href="https://thefoodietakesflight.com/"
+                                    target="_blank"
+                                >
+                                    The Foodie Takes Flight
+                                </a>
+                                <a href="https://delishably.com/" target="_blank"
+                                    >Delishably</a
+                                >
+                                <a href="https://www.yummy.ph/" target="_blank"
+                                    >Yummy</a
+                                >
+                                <a
+                                    href="https://www.budgetbytes.com/"
+                                    target="_blank"
+                                    >BudgetBytes</a
+                                >
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+            </main>
+        </body>
+        <script type="module" src="../../scripts/Header.js"></script>
+        <script type="module" src="../../scripts/utils/SearchInput.js"></script>
+    </html>
+    
+                    

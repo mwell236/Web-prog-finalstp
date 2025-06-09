@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <meta charset="UTF-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            <title>Carbonara</title>
+            <link
+                rel="shortcut icon"
+                href="../../images/Bussin logo.png"
+                type="image/png"
+            />
+    
+            <!-- For Bootstrap Icons -->
+            <link
+                rel="stylesheet"
+                href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+            />
+    
+            <!-- For Poppins Font -->
+            <link rel="preconnect" href="https://fonts.googleapis.com" />
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+            <link
+                href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+                rel="stylesheet"
+            />
+    
+            <link rel="stylesheet" href="../../styles/general.css" />
+            <link rel="stylesheet" href="../../styles/FoodDetails.css" />
+        </head>
+        <body>
+            <header class="header">
+                <div class="left">
+                    <!-- HAMBURGER BUTTON TO SHOW HAMBURGER MENU -->
+                    <button id="borgir-btn"><i class="bi bi-list"></i></button>
+
+                    <!-- HOMEPAGE LINK -->
+                    <a
+                        title="Bussuine"
+                        class="logo-wrapper-link"
+                        href="../../Homepage.html"
+                    >
+                        <img src="../../images/Bussin.png" alt="Bussuine" />
+                    </a>
+                </div>
+
+                <!-- HAMBURGER MENU -->
+                <div class="borgir-menu-wrapper">
+                    <div class="borgir-menu">
+                        <div class="borgir-header">
+                            <a title="Bussuine" href="../../Homepage.html">
+                                <img
+                                    class="logo-borgir"
+                                    src="../../images/Bussin.png"
+                                    alt="Bussuine"
+                                />
+                            </a>
+                            <button id="close-borgir-btn">
+                                <i class="bi bi-chevron-compact-left"></i>
+                            </button>
+                        </div>
+
+                        <!-- HAMBURGER MENU SEARCH -->
+                        <div class="borgir-search-wrapper">
+                            <div class="search-wrapper">
+                                <input
+                                    type="text"
+                                    placeholder="Search a dish"
+                                    id="search"
+                                />
+                                <span id="search-btn"
+                                    ><i class="bi bi-search"></i
+                                ></span>
+                            </div>
+                        </div>
+    
+                        <div class="borgir-menu-list">
+                            <a href="../AllFoods.html">
+                                <h3>All Foods</h3>
+                                <span>></span>
+                            </a>
+                            <a href="../categoryPages/Dessert.html">
+                                <h3>Dessert</h3>
+                                <span>></span>
+                            </a>
+                            <a href="../categoryPages/Vegan.html">
+                                <h3>Vegan</h3>
+                                <span>></span>
+                            </a>
+                            <a href="../categoryPages/Meat.html">
+                                <h3>Meat</h3>
+                                <span>></span>
+                            </a>
+                            <a href="../categoryPages/Seafood.html">
+                                <h3>Seafood</h3>
+                                <span>></span>
+                            </a>
+                            <a href="../categoryPages/Drinks.html">
+                                <h3>Drinks</h3>
+                                <span>></span>
+                            </a>
+                            <a href="../categoryPages/Pasta.html">
+                                <h3>Pasta</h3>
+                                <span>></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+    
+                <div class="right">
+                    <a href="../../Homepage.html">HOME</a>
+                    <a href="../../AboutUs.html">ABOUT</a>
+                    <a href="../AllFoods.html">RECIPES</a>
+                    <div class="search-header-wrapper">
+                        <input
+                            type="text"
+                            name="search"
+                            id="search-header"
+                            placeholder="Search Foodies"
+                            autocomplete="off"
+                        />
+                        <span id="search-header-btn">
+                            <i class="bi bi-search"></i>
+                        </span>
+                        <div class="search-header-results"></div>
+                    </div>
+                </div>
+            </header>
+            <main class="main-content">
+                <div class="food-details-wrapper">
+                    <div class="detailsPage-header">
+                        <div class="detailsPageHeader--left">
+                            <h1>Carbonara</h1>
+                            <div class="below-title">
+                                <div class="rating">
+                                    <span>&#9733;&#9733;&#9733;&#9733;&#9734;</span>
+                                    <span>(1k)</span>
+                                </div>
+                                <span class="belowTitle--category">PASTA</span>
+                                <span class="belowTitle--type">Pasta</span>
+                            </div>
+                            <div class="sources">
+                                <div>
+                                    <span>Recipe: </span>
+                                    <a 
+                                        class="source-link" 
+                                        href="https://panlasangpinoy.com/carbonara-recipe-filipino-style-knr-bc/" 
+                                        target="_blank"
+                                    >
+                                    vanjo merano
+                                    </a>
+                                </div>
+                                <div>
+                                    <span>Image: </span>
+                                    <a 
+                                        class="source-link" 
+                                        href="https://www.flickr.com/photos/danielygo/52478024427/in/photolist-RVLZAe-2jwMcfF-2nXiAmB-2mTY2mB-6Q1XDZ-2i1PYfj-21tDAjA-oYxNky-cZpHPs-2jwQwAB-7Sf5t6-9hKP8B-aw9yDq-5XrKsh-qbK4uc-rywjh-dMNJ8G-utqCu-28MJ8nW-EXzfm-8izD4a-9A8Ry5-8mEpHK-66ccVE-NZCBn-KXnaG-cDTnwh-dgBe2L-8Y1HBR-8Y4LEs-6sq5ZB-PG2wzH-2jwQvT9-2jwMcQP-nFG19g-2jwMdnL-aw9zuY-279qnmj-aw6Qxz-7mGQQn-bUud2s-66qLPQ-6h1LiW-ct7KuC-dxW69R-LnwVY-aJnE4c-9D1ns7/"
+                                        target="_blank"    
+                                    >Daniel Y. Go</a>
+                                </div>
+                            </div>
+                        </div>
+                        <img
+                            src="../../images/foods/Carbonara.png"
+                            alt="Carbonara"
+                        />
+                    </div>
+                    <hr class="first-hr"/>
+                    <div class="ingredients-wrapper">
+                        <h2>Ingredients</h2>
+                        <ul class="ingredients">
+                            <li>1 piece Knorr beef cube</li><li>3/4 lb. spaghetti</li><li>7 strips bacon</li><li>15 ounces all-purpose cream</li><li>6 tablespoons grated Parmesan cheese</li><li>1 piece yellow onion chopped</li><li>2 cloves garlic minced</li><li>1/8 teaspoon ground nutmeg</li><li>1 teaspoon salt</li><li>2 quarts water</li>
+                        </ul>
+                    </div>
+                    <hr class="second-hr" />
+                    <div class="preparation-wrapper">
+                        <h2>Preparation</h2>
+                        <ul class="preparation">
+                            <li>
+                            <span>Step 1</span>
+                            <span>Cook the spaghetti by pouring water in a cooking pot. Let boil. Add salt and put the spaghetti into the pot. Cook for 12 minutes or until al dente. Remove the spaghetti Set aside. Save ¼ cup of water used to cook spaghetti.Prepare the carbonara sauce by heating 3 tablespoons of bacon grease. Saute onion and garlic.</span>
+                        </li><li>
+                            <span>Step 2</span>
+                            <span>One the onion softens, pour all-purpose cream into the pan. Stir. Add ¼ cup water.</span>
+                        </li><li>
+                            <span>Step 3</span>
+                            <span>Add Knorr Beef Cube. Stir until well blended.</span>
+                        </li><li>
+                            <span>Step 4</span>
+                            <span>Put chopped bacon and nutmeg into the sauce. Stir.</span>
+                        </li><li>
+                            <span>Step 5</span>
+                            <span>Add the cooked spaghetti. Toss until spaghetti gets totally coated with sauce.</span>
+                        </li><li>
+                            <span>Step 6</span>
+                            <span>Add Parmesan cheese. Toss. Add more bacon.</span>
+                        </li><li>
+                            <span>Step 7</span>
+                            <span>Transfer to a serving plate. Serve and enjoy!</span>
+                        </li>
+                        </ul>
+                    </div>
+                </div>
+                <footer class="footer">
+                    <div class="footer-left">
+                        <div class="footer-col1">
+                            <a class="footer-logo" href="./Homepage.html">
+                                <img
+                                    src="../../images/Bussin.png"
+                                    alt="Bussuine Logo"
+                                />
+                            </a>
+                            <p>
+                                "Bussuine: where every meal bursts with flavor!
+                                Discover mouth-watering recipes, cooking tips,
+                                and a community that celebrates the joy of eating well.
+                                Join us and make every bite truly bussin'!.
+                            </p>
+                            <div class="container-links-col1">
+                                <div class="buttons-footer">
+                                    <a href="../../AboutUs.html">About us</a>
+                                    <a href="../../Contact.html">Contact</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="footer-col2">
+                            <h4>Reach out to us</h4>
+                            <div class="footer-contact-deets">
+                                <div>
+                                    <span>
+                                        <i class="bi bi-envelope-fill"></i>
+                                    </span>
+                                    <span>
+                                        <a href="">Bussuine@gmail.com</a>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span>
+                                        <i class="bi bi-telephone-fill"></i>
+                                    </span>
+                                    <span>+63 998-417-9941</span>
+                                </div>
+                                <div>
+                                    <span>
+                                        <i class="bi bi-instagram"></i>
+                                    </span>
+                                    <span>
+                                        <a href="https://www.instagram.com/Bussuine/" target="_blank">Instagram</a>
+                                    </span>
+                                </div>
+                                <div>
+                                    <span>
+                                        <i class="bi bi-facebook"></i>
+                                    </span>
+                                    <span>
+                                        <a href="https://www.facebook.com/Bussuine/" target="_blank">Facebook</a>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footer-right">
+                        <div class="footer-col3">
+                            <h4>Food Categories</h4>
+                            <div>
+                                <a href="../categoryPages/Dessert.html">Dessert</a>
+                                <a href="../categoryPages/Vegan.html">Vegan</a>
+                                <a href="../categoryPages/Meat.html">Meat</a>
+                                <a href="../categoryPages/Seafood.html">Seafood</a>
+                                <a href="../categoryPages/Drinks.html">Drinks</a>
+                                <a href="../categoryPages/Pasta.html">Pasta</a>
+                            </div>
+                        </div>
+                        <div class="footer-col4">
+                            <h4>Sponsors</h4>
+                            <div class="sponsors">
+                                <a
+                                    href="https://www.bing.com/images/create/"
+                                    target="_blank"
+                                >
+                                    Designer
+                                </a>
+                                <a
+                                    href="https://www.kawalingpinoy.com/"
+                                    target="_blank"
+                                >
+                                    kawaling Pinoy
+                                </a>
+                                <a
+                                    href="https://panlasangpinoy.com/"
+                                    target="_blank"
+                                >
+                                    Panlasang Pinoy
+                                </a>
+                                <a
+                                    href="https://thefoodietakesflight.com/"
+                                    target="_blank"
+                                >
+                                    The Foodie Takes Flight
+                                </a>
+                                <a href="https://delishably.com/" target="_blank"
+                                    >Delishably</a
+                                >
+                                <a href="https://www.yummy.ph/" target="_blank"
+                                    >Yummy</a
+                                >
+                                <a
+                                    href="https://www.budgetbytes.com/"
+                                    target="_blank"
+                                    >BudgetBytes</a
+                                >
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+            </main>
+        </body>
+        <script type="module" src="../../scripts/Header.js"></script>
+        <script type="module" src="../../scripts/utils/SearchInput.js"></script>
+    </html>
+    
+                    
